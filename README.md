@@ -11,10 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anittapm1708/DSA/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anittapm1708/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anittapm1708/DSA/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anittapm1708/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/anittapm1708/DSA/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anittapm1708/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anittapm1708/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Counting
 |  |
@@ -42,4 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/anittapm1708/DSA/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/anittapm1708/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/anittapm1708/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
