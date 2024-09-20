@@ -1,27 +1,34 @@
 class Solution {
-    public String shortestPalindrome(String s) {
-        int count = kmp(new StringBuilder(s).reverse().toString(), s);
-        return new StringBuilder(s.substring(count)).reverse().toString() + s;
-    }
 
-    private int kmp(String txt, String patt) {
-        String newString = patt + '#' + txt;
-        int[] pi = new int[newString.length()];
-        int i = 1, k = 0;
-        while (i < newString.length()) {
-            if (newString.charAt(i) == newString.charAt(k)) {
-                k++;
-                pi[i] = k;
-                i++;
-            } else {
-                if (k > 0) {
-                    k = pi[k - 1];
-                } else {
-                    pi[i] = 0;
-                    i++;
-                }
+    public String shortestPalindrome(String s) {
+        int length = s.length();
+        if (length == 0) {
+            return s;
+        }
+
+        // Find the longest palindromic prefix
+        int left = 0;
+        for (int right = length - 1; right >= 0; right--) {
+            if (s.charAt(right) == s.charAt(left)) {
+                left++;
             }
         }
-        return pi[newString.length() - 1];
+
+        // If the whole string is a palindrome, return the original string
+        if (left == length) {
+            return s;
+        }
+
+        // Extract the suffix that is not part of the palindromic prefix
+        String nonPalindromeSuffix = s.substring(left);
+        StringBuilder reverseSuffix = new StringBuilder(
+            nonPalindromeSuffix
+        ).reverse();
+
+        // Form the shortest palindrome by prepending the reversed suffix
+        return reverseSuffix
+            .append(shortestPalindrome(s.substring(0, left)))
+            .append(nonPalindromeSuffix)
+            .toString();
     }
 }
