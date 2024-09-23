@@ -22,11 +22,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/anittapm1708/DSA/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/anittapm1708/DSA/tree/master/0179-largest-number) |
+| [2755-extra-characters-in-a-string](https://github.com/anittapm1708/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anittapm1708/DSA/tree/master/0001-two-sum) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anittapm1708/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2755-extra-characters-in-a-string](https://github.com/anittapm1708/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/anittapm1708/DSA/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anittapm1708/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anittapm1708/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2755-extra-characters-in-a-string](https://github.com/anittapm1708/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -50,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/anittapm1708/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [2755-extra-characters-in-a-string](https://github.com/anittapm1708/DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -75,4 +79,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/anittapm1708/DSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/anittapm1708/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/anittapm1708/DSA/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
