@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/anittapm1708/DSA/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/anittapm1708/DSA/tree/master/0179-largest-number) |
 | [0729-my-calendar-i](https://github.com/anittapm1708/DSA/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/anittapm1708/DSA/tree/master/0731-my-calendar-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/anittapm1708/DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/anittapm1708/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anittapm1708/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -93,16 +94,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/anittapm1708/DSA/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/anittapm1708/DSA/tree/master/0731-my-calendar-ii) |
 ## Design
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/anittapm1708/DSA/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/anittapm1708/DSA/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/anittapm1708/DSA/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/anittapm1708/DSA/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/anittapm1708/DSA/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/anittapm1708/DSA/tree/master/0731-my-calendar-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/anittapm1708/DSA/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
