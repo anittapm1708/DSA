@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anittapm1708/DSA/tree/master/0002-add-two-numbers) |
+| [0432-all-oone-data-structure](https://github.com/anittapm1708/DSA/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/anittapm1708/DSA/tree/master/0859-design-circular-deque) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anittapm1708/DSA/tree/master/0001-two-sum) |
+| [0432-all-oone-data-structure](https://github.com/anittapm1708/DSA/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anittapm1708/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/anittapm1708/DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anittapm1708/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/anittapm1708/DSA/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/anittapm1708/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anittapm1708/DSA/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/anittapm1708/DSA/tree/master/0859-design-circular-deque) |
@@ -121,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/anittapm1708/DSA/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/anittapm1708/DSA/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
