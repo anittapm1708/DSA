@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anittapm1708/DSA/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/anittapm1708/DSA/tree/master/0205-isomorphic-strings) |
 | [0432-all-oone-data-structure](https://github.com/anittapm1708/DSA/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anittapm1708/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/anittapm1708/DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/anittapm1708/DSA/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/anittapm1708/DSA/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/anittapm1708/DSA/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anittapm1708/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anittapm1708/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
