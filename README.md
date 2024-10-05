@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anittapm1708/DSA/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/anittapm1708/DSA/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anittapm1708/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/anittapm1708/DSA/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/anittapm1708/DSA/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/anittapm1708/DSA/tree/master/0204-count-primes) |
 | [0729-my-calendar-i](https://github.com/anittapm1708/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anittapm1708/DSA/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/anittapm1708/DSA/tree/master/0859-design-circular-deque) |
@@ -156,4 +158,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/anittapm1708/DSA/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anittapm1708/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anittapm1708/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
