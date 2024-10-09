@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anittapm1708/DSA/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anittapm1708/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/anittapm1708/DSA/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anittapm1708/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anittapm1708/DSA/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anittapm1708/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/anittapm1708/DSA/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/anittapm1708/DSA/tree/master/0204-count-primes) |
 | [0729-my-calendar-i](https://github.com/anittapm1708/DSA/tree/master/0729-my-calendar-i) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anittapm1708/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anittapm1708/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anittapm1708/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anittapm1708/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
