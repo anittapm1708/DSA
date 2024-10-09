@@ -5,7 +5,7 @@ class Solution {
             if(s.charAt(i)=='('){
                 open++;
             }
-            else if(s.charAt(i)==')'){
+            else{
                 if(open>0){
                     open--;
                 }
