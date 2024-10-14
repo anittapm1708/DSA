@@ -5,10 +5,10 @@ class Solution {
             heap.offer(num);
         }
         long res=0;
-        while(!heap.isEmpty() &&k>0){
-            res+=heap.peek();
-            int val = (int)Math.ceil(heap.poll()/3.0);
-            heap.offer(val);
+        while(k>0){
+            int val=heap.poll();
+            res+=val;
+            heap.offer((int)Math.ceil(val/3.0));
             k--;
         }
         return res;
