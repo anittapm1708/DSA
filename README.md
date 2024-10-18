@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/anittapm1708/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/anittapm1708/DSA/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anittapm1708/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0670-maximum-swap](https://github.com/anittapm1708/DSA/tree/master/0670-maximum-swap) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/anittapm1708/DSA/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anittapm1708/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/anittapm1708/DSA/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anittapm1708/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/anittapm1708/DSA/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anittapm1708/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
